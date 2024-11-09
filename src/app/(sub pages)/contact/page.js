@@ -23,7 +23,7 @@ export default function Contact() {
             summon the Astronaut
           </h1>
           <p className="text-center font-light text-sm xs:text-base">
-          Embark on a cosmic journey and leave your mark on the digital universe. Whether you're seeking celestial collaborations, exploring the depths of knowledge, or sharing interstellar tales, your messages are like stardust, scattered across the cosmos. Use the form below to send your cosmic communiqué and await the echo of the universe.
+          Embark on a cosmic journey and leave your mark on the digital universe. Whether you are seeking celestial collaborations, exploring the depths of knowledge, or sharing interstellar tales, your messages are like stardust, scattered across the cosmos. Use the form below to send your cosmic community and await the echo of the universe.
           </p>
         </div>
         <Form />

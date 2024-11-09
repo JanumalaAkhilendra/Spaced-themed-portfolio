@@ -15,7 +15,7 @@ const AboutDetails = () => {
             Architect of Enchantment
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          I'm a cosmic engineer, navigating the digital cosmos with the power of JavaScript. Armed with frameworks like React.js and Next.js, I construct celestial web experiences, guiding users through the vast expanse of the internet. With the help of the Jamstack, I build high-performance, secure, and scalable digital galaxies. My mission is to create stunning digital landscapes that captivate and inspire.
+          I am a cosmic engineer, navigating the digital cosmos with the power of JavaScript. Armed with frameworks like React.js and Next.js, I construct celestial web experiences, guiding users through the vast expanse of the internet. With the help of the Jamstack, I build high-performance, secure, and scalable digital galaxies. My mission is to create stunning digital landscapes that captivate and inspire.
           </p>
         </ItemLayout>
 
