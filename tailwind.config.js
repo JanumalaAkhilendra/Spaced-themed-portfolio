@@ -27,11 +27,17 @@ module.exports = {
       'spin-reverse':{
         '0%': {transform: 'rotate(0deg)'},
         '100%': {transform: 'rotate(-360deg)'}
-      }
+      },
+      'float': {
+        '0%': { transform: 'translateY(0)' },
+        '50%': { transform: 'translateY(-10px)' },
+        '100%': { transform: 'translateY(0)' },
+      },
       },
       animation:{
         'spin-slow': 'spin 40s linear infinite',
         'spin-slow-reverse': 'spin-reverse 40s linear infinite',
+        'float': 'float 2s infinite alternate',
       },
       screens:{
         xs: '480px',
