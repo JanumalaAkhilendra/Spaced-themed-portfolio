@@ -34,13 +34,13 @@ export default function Home() {
         </RenderModel>
       </div> */}
 
-      <div className="w-full h-3/5 xs:h-3/4 sm:h-screen absolute top-1/2 -translate-y-1/2 left-0 z-10">
+      <div className="w-full h-3/5 xs:h-3/4 sm:h-screen absolute top-1/2 -translate-y-1/2 left-0 -z-10">
         <Image
           src={staff}
           alt="Astronaut Image"
           width={200}
           height={200}
-          className="mr-20 animate-float  my-10"
+          className="mr-20 animate-float -z-20 my-10 mx-auto"
         />
       </div>
     </>
